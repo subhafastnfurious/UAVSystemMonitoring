@@ -10,3 +10,6 @@ mongoimport --db asterialAerospace --collection locationData --type json --file 
 Then reun the requirements file
 pip install -r requirements.txt
 
+
+Need bower package manager to install javascript package
+bower install
