@@ -1,4 +1,7 @@
 # UAVSystemMonitoring
+Need to have Mongodb installed
+https://docs.mongodb.com/v3.0/tutorial/install-mongodb-on-ubuntu/
+
 Monitor UAV system using Google Maps
 Application need to have preconfigured data in database
 Following are the command can be used to load the dump
