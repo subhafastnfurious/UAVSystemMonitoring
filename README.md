@@ -11,5 +11,14 @@ Then reun the requirements file
 pip install -r requirements.txt
 
 
-Need bower package manager to install javascript package
+Installing Node.js and Bower
+
+Download and install Node.js in order to use npm.
+
+Bower is a package manager for third party front-end tools. These packages are stored in the static/lib directory. Install bower with:
+
+$ npm install -g bower
+
+Then execute the following command to install all the javascript library
 bower install
+
