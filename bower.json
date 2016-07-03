@@ -18,6 +18,6 @@
     "angular-sanitize": "1.4.2",
     "angular-scroll-glue": "2.0.6",
     "angular-ui-router": "0.3.0",
-    "angular-google-maps"
+    "angular-google-maps": "2.3.3"
   }	
 }
