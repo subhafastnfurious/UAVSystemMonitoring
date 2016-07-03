@@ -54,7 +54,6 @@ class ListUsersDetail(APIView):
             raise Http404
 
     def get(self, request, pk, format=None):
-    	import ipdb; ipdb.set_trace()
         user = self.get_object(pk)
         serializer = UserSerializer(user)
         return Response(serializer.data)
