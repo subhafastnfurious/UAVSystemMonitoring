@@ -1,0 +1,36 @@
+<div layout="column" flex layout-align='center center'>
+  <md-content layout-padding>
+    <form name="userForm">
+      <md-input-container flex>
+          <label>username</label>
+          <input ng-model="user.username">
+      </md-input-container>
+      <div layout layout-sm="column">
+        <md-input-container flex>
+          <label>First name</label>
+          <input ng-model="user.firstName">
+        </md-input-container>
+        <md-input-container flex>
+          <label>Last Name</label>
+          <input ng-model="theMax">
+        </md-input-container>
+      </div>
+      <md-input-container flex>
+        <label>Address</label>
+        <input ng-model="user.address">
+      </md-input-container>
+      <md-input-container>
+      <label>Email</label>
+      <input ng-model="user.email" type="email">
+      </md-input-container>
+      <md-input-container>
+      <label>Password</label>
+      <input ng-model="user.password" type="password">
+      </md-input-container>     
+      <md-button class="md-primary md-raised" type="submit"
+                 ng-click='adduser()'>
+          Submit
+      </md-button> 
+    </form>
+  </md-content>
+</div>

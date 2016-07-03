@@ -1,0 +1,3002 @@
+[
+	{
+		"coordinate": "7.55315, -4.95684",
+		"name": "UAV1",
+		"uid": 66
+	},
+	{
+		"coordinate": "-47.10893, 47.77362",
+		"name": "UAV1",
+		"uid": 26
+	},
+	{
+		"coordinate": "-77.04251, 132.01183",
+		"name": "UAV1",
+		"uid": 92
+	},
+	{
+		"coordinate": "53.74023, 45.33349",
+		"name": "UAV1",
+		"uid": 32
+	},
+	{
+		"coordinate": "-30.05532, -17.24668",
+		"name": "UAV1",
+		"uid": 88
+	},
+	{
+		"coordinate": "75.48712, -76.73122",
+		"name": "UAV1",
+		"uid": 14
+	},
+	{
+		"coordinate": "-89.86592, -79.42052",
+		"name": "UAV1",
+		"uid": 33
+	},
+	{
+		"coordinate": "-55.83626, -107.38832",
+		"name": "UAV1",
+		"uid": 74
+	},
+	{
+		"coordinate": "0.05175, -54.45331",
+		"name": "UAV1",
+		"uid": 66
+	},
+	{
+		"coordinate": "-69.61788, 32.90618",
+		"name": "UAV1",
+		"uid": 99
+	},
+	{
+		"coordinate": "-67.93489, -153.33989",
+		"name": "UAV1",
+		"uid": 54
+	},
+	{
+		"coordinate": "34.14725, 126.11599",
+		"name": "UAV1",
+		"uid": 72
+	},
+	{
+		"coordinate": "65.69103, -69.52941",
+		"name": "UAV1",
+		"uid": 7
+	},
+	{
+		"coordinate": "29.29515, 16.91476",
+		"name": "UAV1",
+		"uid": 79
+	},
+	{
+		"coordinate": "75.95173, 22.42544",
+		"name": "UAV1",
+		"uid": 89
+	},
+	{
+		"coordinate": "-72.67536, 62.9813",
+		"name": "UAV1",
+		"uid": 83
+	},
+	{
+		"coordinate": "87.63979, 83.79191",
+		"name": "UAV1",
+		"uid": 47
+	},
+	{
+		"coordinate": "-27.68908, -76.8831",
+		"name": "UAV1",
+		"uid": 10
+	},
+	{
+		"coordinate": "-49.87674, -73.97853",
+		"name": "UAV1",
+		"uid": 32
+	},
+	{
+		"coordinate": "-32.75639, 118.22182",
+		"name": "UAV1",
+		"uid": 6
+	},
+	{
+		"coordinate": "-69.93266, -21.05754",
+		"name": "UAV1",
+		"uid": 75
+	},
+	{
+		"coordinate": "28.89971, 43.22145",
+		"name": "UAV1",
+		"uid": 55
+	},
+	{
+		"coordinate": "16.17121, -10.49299",
+		"name": "UAV1",
+		"uid": 93
+	},
+	{
+		"coordinate": "35.4673, -66.40068",
+		"name": "UAV1",
+		"uid": 96
+	},
+	{
+		"coordinate": "-19.54154, 124.70815",
+		"name": "UAV1",
+		"uid": 57
+	},
+	{
+		"coordinate": "-27.52039, 158.6367",
+		"name": "UAV1",
+		"uid": 1
+	},
+	{
+		"coordinate": "44.49042, -3.52487",
+		"name": "UAV1",
+		"uid": 77
+	},
+	{
+		"coordinate": "-40.94764, -49.39201",
+		"name": "UAV1",
+		"uid": 92
+	},
+	{
+		"coordinate": "17.16444, 39.48953",
+		"name": "UAV1",
+		"uid": 6
+	},
+	{
+		"coordinate": "7.24785, -102.47098",
+		"name": "UAV1",
+		"uid": 3
+	},
+	{
+		"coordinate": "10.86183, 162.3536",
+		"name": "UAV1",
+		"uid": 4
+	},
+	{
+		"coordinate": "39.64361, -29.81703",
+		"name": "UAV1",
+		"uid": 82
+	},
+	{
+		"coordinate": "13.34057, -138.3133",
+		"name": "UAV1",
+		"uid": 57
+	},
+	{
+		"coordinate": "0.72824, 106.01993",
+		"name": "UAV1",
+		"uid": 92
+	},
+	{
+		"coordinate": "-35.20539, 82.3437",
+		"name": "UAV1",
+		"uid": 44
+	},
+	{
+		"coordinate": "-5.51731, -84.18165",
+		"name": "UAV1",
+		"uid": 33
+	},
+	{
+		"coordinate": "-69.36345, -64.62403",
+		"name": "UAV1",
+		"uid": 56
+	},
+	{
+		"coordinate": "70.97246, 159.61715",
+		"name": "UAV1",
+		"uid": 30
+	},
+	{
+		"coordinate": "-16.74286, 64.34829",
+		"name": "UAV1",
+		"uid": 53
+	},
+	{
+		"coordinate": "-25.60579, -86.73982",
+		"name": "UAV1",
+		"uid": 22
+	},
+	{
+		"coordinate": "63.75154, 172.23532",
+		"name": "UAV1",
+		"uid": 66
+	},
+	{
+		"coordinate": "-77.81613, -34.04458",
+		"name": "UAV1",
+		"uid": 50
+	},
+	{
+		"coordinate": "-30.78088, 39.18844",
+		"name": "UAV1",
+		"uid": 71
+	},
+	{
+		"coordinate": "31.24844, -46.15704",
+		"name": "UAV1",
+		"uid": 37
+	},
+	{
+		"coordinate": "-7.56958, 0.77643",
+		"name": "UAV1",
+		"uid": 27
+	},
+	{
+		"coordinate": "-5.55535, 102.83171",
+		"name": "UAV1",
+		"uid": 32
+	},
+	{
+		"coordinate": "31.273, 75.6326",
+		"name": "UAV1",
+		"uid": 39
+	},
+	{
+		"coordinate": "-22.31439, 45.29171",
+		"name": "UAV1",
+		"uid": 71
+	},
+	{
+		"coordinate": "24.33495, -82.27092",
+		"name": "UAV1",
+		"uid": 72
+	},
+	{
+		"coordinate": "74.85576, 110.29132",
+		"name": "UAV1",
+		"uid": 83
+	},
+	{
+		"coordinate": "4.78617, 31.72796",
+		"name": "UAV1",
+		"uid": 67
+	},
+	{
+		"coordinate": "-36.28404, -16.33637",
+		"name": "UAV1",
+		"uid": 64
+	},
+	{
+		"coordinate": "88.07725, 12.54404",
+		"name": "UAV1",
+		"uid": 76
+	},
+	{
+		"coordinate": "-16.8917, -94.62546",
+		"name": "UAV1",
+		"uid": 43
+	},
+	{
+		"coordinate": "85.25484, 96.64288",
+		"name": "UAV1",
+		"uid": 4
+	},
+	{
+		"coordinate": "46.61541, 91.6184",
+		"name": "UAV1",
+		"uid": 30
+	},
+	{
+		"coordinate": "-33.63145, -129.47532",
+		"name": "UAV1",
+		"uid": 67
+	},
+	{
+		"coordinate": "77.35616, -27.05639",
+		"name": "UAV1",
+		"uid": 85
+	},
+	{
+		"coordinate": "14.47898, 65.1527",
+		"name": "UAV1",
+		"uid": 82
+	},
+	{
+		"coordinate": "-86.37768, -113.0073",
+		"name": "UAV1",
+		"uid": 17
+	},
+	{
+		"coordinate": "-59.09063, -19.16704",
+		"name": "UAV1",
+		"uid": 96
+	},
+	{
+		"coordinate": "-63.76461, 124.25831",
+		"name": "UAV1",
+		"uid": 76
+	},
+	{
+		"coordinate": "-70.87021, 133.41856",
+		"name": "UAV1",
+		"uid": 41
+	},
+	{
+		"coordinate": "38.41923, -168.03288",
+		"name": "UAV1",
+		"uid": 47
+	},
+	{
+		"coordinate": "43.71365, -165.86707",
+		"name": "UAV1",
+		"uid": 37
+	},
+	{
+		"coordinate": "30.0227, 83.21134",
+		"name": "UAV1",
+		"uid": 81
+	},
+	{
+		"coordinate": "-70.53929, -8.84594",
+		"name": "UAV1",
+		"uid": 77
+	},
+	{
+		"coordinate": "-30.81642, 174.69621",
+		"name": "UAV1",
+		"uid": 93
+	},
+	{
+		"coordinate": "-40.33774, -65.93382",
+		"name": "UAV1",
+		"uid": 16
+	},
+	{
+		"coordinate": "-35.58605, 116.7386",
+		"name": "UAV1",
+		"uid": 48
+	},
+	{
+		"coordinate": "63.61793, 138.13554",
+		"name": "UAV1",
+		"uid": 73
+	},
+	{
+		"coordinate": "-42.58333, -147.51468",
+		"name": "UAV1",
+		"uid": 9
+	},
+	{
+		"coordinate": "-25.50119, 121.50168",
+		"name": "UAV1",
+		"uid": 88
+	},
+	{
+		"coordinate": "-30.34052, -7.42826",
+		"name": "UAV1",
+		"uid": 42
+	},
+	{
+		"coordinate": "73.77647, 56.83798",
+		"name": "UAV1",
+		"uid": 27
+	},
+	{
+		"coordinate": "-54.59396, 169.38862",
+		"name": "UAV1",
+		"uid": 48
+	},
+	{
+		"coordinate": "-11.91121, 128.91763",
+		"name": "UAV1",
+		"uid": 53
+	},
+	{
+		"coordinate": "-12.77605, 151.33221",
+		"name": "UAV1",
+		"uid": 97
+	},
+	{
+		"coordinate": "83.2846, -136.82724",
+		"name": "UAV1",
+		"uid": 84
+	},
+	{
+		"coordinate": "-88.36213, 39.81411",
+		"name": "UAV1",
+		"uid": 85
+	},
+	{
+		"coordinate": "3.13517, 2.67628",
+		"name": "UAV1",
+		"uid": 78
+	},
+	{
+		"coordinate": "57.95457, -131.74698",
+		"name": "UAV1",
+		"uid": 79
+	},
+	{
+		"coordinate": "37.78981, 48.5464",
+		"name": "UAV1",
+		"uid": 58
+	},
+	{
+		"coordinate": "53.47813, -139.27632",
+		"name": "UAV1",
+		"uid": 1
+	},
+	{
+		"coordinate": "-10.48756, -141.00184",
+		"name": "UAV1",
+		"uid": 91
+	},
+	{
+		"coordinate": "-77.61342, -46.16787",
+		"name": "UAV1",
+		"uid": 99
+	},
+	{
+		"coordinate": "-47.33732, 9.28464",
+		"name": "UAV1",
+		"uid": 63
+	},
+	{
+		"coordinate": "14.28185, -47.14585",
+		"name": "UAV1",
+		"uid": 76
+	},
+	{
+		"coordinate": "82.44746, 56.49091",
+		"name": "UAV1",
+		"uid": 52
+	},
+	{
+		"coordinate": "-41.87151, -123.47101",
+		"name": "UAV1",
+		"uid": 86
+	},
+	{
+		"coordinate": "11.69485, 43.00059",
+		"name": "UAV1",
+		"uid": 100
+	},
+	{
+		"coordinate": "-40.89344, -112.51299",
+		"name": "UAV1",
+		"uid": 57
+	},
+	{
+		"coordinate": "76.41533, -1.3479",
+		"name": "UAV1",
+		"uid": 56
+	},
+	{
+		"coordinate": "51.18988, 134.57187",
+		"name": "UAV1",
+		"uid": 71
+	},
+	{
+		"coordinate": "41.57851, 42.6265",
+		"name": "UAV1",
+		"uid": 41
+	},
+	{
+		"coordinate": "-56.98082, -73.12569",
+		"name": "UAV1",
+		"uid": 21
+	},
+	{
+		"coordinate": "54.21544, -104.29924",
+		"name": "UAV1",
+		"uid": 64
+	},
+	{
+		"coordinate": "-86.93585, -33.04268",
+		"name": "UAV1",
+		"uid": 60
+	},
+	{
+		"coordinate": "-35.04204, -22.62966",
+		"name": "UAV1",
+		"uid": 75
+	},
+	{
+		"coordinate": "1.81702, 138.01222",
+		"name": "UAV1",
+		"uid": 64
+	},
+	{
+		"coordinate": "-21.13069, -44.18703",
+		"name": "UAV1",
+		"uid": 157
+	},
+	{
+		"coordinate": "-74.77433, 11.27192",
+		"name": "UAV1",
+		"uid": 124
+	},
+	{
+		"coordinate": "-27.81121, -45.99042",
+		"name": "UAV1",
+		"uid": 146
+	},
+	{
+		"coordinate": "-43.42301, 118.65841",
+		"name": "UAV1",
+		"uid": 176
+	},
+	{
+		"coordinate": "63.79087, -93.60742",
+		"name": "UAV1",
+		"uid": 180
+	},
+	{
+		"coordinate": "-78.85323, 175.68492",
+		"name": "UAV1",
+		"uid": 110
+	},
+	{
+		"coordinate": "21.76748, 114.40496",
+		"name": "UAV1",
+		"uid": 138
+	},
+	{
+		"coordinate": "-82.02792, -5.04393",
+		"name": "UAV1",
+		"uid": 180
+	},
+	{
+		"coordinate": "73.53279, -27.03859",
+		"name": "UAV1",
+		"uid": 108
+	},
+	{
+		"coordinate": "-66.04455, 87.00786",
+		"name": "UAV1",
+		"uid": 129
+	},
+	{
+		"coordinate": "-65.39895, -171.88858",
+		"name": "UAV1",
+		"uid": 163
+	},
+	{
+		"coordinate": "-81.4666, 134.16165",
+		"name": "UAV1",
+		"uid": 103
+	},
+	{
+		"coordinate": "23.12797, 109.02596",
+		"name": "UAV1",
+		"uid": 122
+	},
+	{
+		"coordinate": "-27.68519, -52.9284",
+		"name": "UAV1",
+		"uid": 178
+	},
+	{
+		"coordinate": "-68.8733, -59.25562",
+		"name": "UAV1",
+		"uid": 163
+	},
+	{
+		"coordinate": "-30.76937, 72.7885",
+		"name": "UAV1",
+		"uid": 195
+	},
+	{
+		"coordinate": "-7.11129, -150.99708",
+		"name": "UAV1",
+		"uid": 148
+	},
+	{
+		"coordinate": "-45.6546, 142.33989",
+		"name": "UAV1",
+		"uid": 135
+	},
+	{
+		"coordinate": "-48.624, 33.43929",
+		"name": "UAV1",
+		"uid": 144
+	},
+	{
+		"coordinate": "-64.35658, 56.35045",
+		"name": "UAV1",
+		"uid": 174
+	},
+	{
+		"coordinate": "82.8655, -112.3663",
+		"name": "UAV1",
+		"uid": 117
+	},
+	{
+		"coordinate": "43.21887, 58.7613",
+		"name": "UAV1",
+		"uid": 124
+	},
+	{
+		"coordinate": "-16.79928, -85.16185",
+		"name": "UAV1",
+		"uid": 138
+	},
+	{
+		"coordinate": "-5.54647, 148.75829",
+		"name": "UAV1",
+		"uid": 103
+	},
+	{
+		"coordinate": "-77.06378, 128.85497",
+		"name": "UAV1",
+		"uid": 168
+	},
+	{
+		"coordinate": "-32.04535, -46.44919",
+		"name": "UAV1",
+		"uid": 144
+	},
+	{
+		"coordinate": "53.77223, 108.60307",
+		"name": "UAV1",
+		"uid": 161
+	},
+	{
+		"coordinate": "46.22192, 129.3885",
+		"name": "UAV1",
+		"uid": 198
+	},
+	{
+		"coordinate": "31.78869, 25.20582",
+		"name": "UAV1",
+		"uid": 143
+	},
+	{
+		"coordinate": "86.05159, 162.14599",
+		"name": "UAV1",
+		"uid": 166
+	},
+	{
+		"coordinate": "-56.42413, 89.95799",
+		"name": "UAV1",
+		"uid": 159
+	},
+	{
+		"coordinate": "35.66273, 158.65503",
+		"name": "UAV1",
+		"uid": 184
+	},
+	{
+		"coordinate": "-73.70506, -50.04214",
+		"name": "UAV1",
+		"uid": 146
+	},
+	{
+		"coordinate": "-57.01347, 15.72572",
+		"name": "UAV1",
+		"uid": 145
+	},
+	{
+		"coordinate": "51.94983, 23.83821",
+		"name": "UAV1",
+		"uid": 185
+	},
+	{
+		"coordinate": "25.37646, 153.05075",
+		"name": "UAV1",
+		"uid": 151
+	},
+	{
+		"coordinate": "33.09646, -106.54506",
+		"name": "UAV1",
+		"uid": 157
+	},
+	{
+		"coordinate": "-18.76357, 151.90396",
+		"name": "UAV1",
+		"uid": 180
+	},
+	{
+		"coordinate": "-18.60364, 16.86091",
+		"name": "UAV1",
+		"uid": 151
+	},
+	{
+		"coordinate": "43.5043, 172.99131",
+		"name": "UAV1",
+		"uid": 183
+	},
+	{
+		"coordinate": "86.25071, -146.58541",
+		"name": "UAV1",
+		"uid": 169
+	},
+	{
+		"coordinate": "-22.5423, -9.78843",
+		"name": "UAV1",
+		"uid": 157
+	},
+	{
+		"coordinate": "-81.53749, -113.11077",
+		"name": "UAV1",
+		"uid": 123
+	},
+	{
+		"coordinate": "80.31151, 170.94127",
+		"name": "UAV1",
+		"uid": 109
+	},
+	{
+		"coordinate": "26.93345, 88.36954",
+		"name": "UAV1",
+		"uid": 133
+	},
+	{
+		"coordinate": "34.52894, 147.71716",
+		"name": "UAV1",
+		"uid": 120
+	},
+	{
+		"coordinate": "66.27986, -139.50406",
+		"name": "UAV1",
+		"uid": 143
+	},
+	{
+		"coordinate": "-27.75342, -48.53967",
+		"name": "UAV1",
+		"uid": 137
+	},
+	{
+		"coordinate": "61.25006, -81.70228",
+		"name": "UAV1",
+		"uid": 127
+	},
+	{
+		"coordinate": "64.8015, 133.36244",
+		"name": "UAV1",
+		"uid": 180
+	},
+	{
+		"coordinate": "-83.16705, -52.18714",
+		"name": "UAV1",
+		"uid": 107
+	},
+	{
+		"coordinate": "-81.8675, -57.61268",
+		"name": "UAV1",
+		"uid": 172
+	},
+	{
+		"coordinate": "-83.00282, -154.4107",
+		"name": "UAV1",
+		"uid": 127
+	},
+	{
+		"coordinate": "-1.47292, 32.6312",
+		"name": "UAV1",
+		"uid": 108
+	},
+	{
+		"coordinate": "-57.31712, -11.77052",
+		"name": "UAV1",
+		"uid": 129
+	},
+	{
+		"coordinate": "12.41725, 154.40349",
+		"name": "UAV1",
+		"uid": 196
+	},
+	{
+		"coordinate": "31.42874, 11.11973",
+		"name": "UAV1",
+		"uid": 173
+	},
+	{
+		"coordinate": "-1.7784, -109.51014",
+		"name": "UAV1",
+		"uid": 174
+	},
+	{
+		"coordinate": "-60.53242, -108.29744",
+		"name": "UAV1",
+		"uid": 166
+	},
+	{
+		"coordinate": "-53.78678, -142.3903",
+		"name": "UAV1",
+		"uid": 164
+	},
+	{
+		"coordinate": "36.62457, -24.48475",
+		"name": "UAV1",
+		"uid": 189
+	},
+	{
+		"coordinate": "-26.04972, -89.00945",
+		"name": "UAV1",
+		"uid": 101
+	},
+	{
+		"coordinate": "34.2557, -43.60661",
+		"name": "UAV1",
+		"uid": 177
+	},
+	{
+		"coordinate": "-83.69229, 44.32338",
+		"name": "UAV1",
+		"uid": 102
+	},
+	{
+		"coordinate": "19.52142, -95.70386",
+		"name": "UAV1",
+		"uid": 112
+	},
+	{
+		"coordinate": "63.4967, 42.32663",
+		"name": "UAV1",
+		"uid": 183
+	},
+	{
+		"coordinate": "10.88814, -27.06327",
+		"name": "UAV1",
+		"uid": 142
+	},
+	{
+		"coordinate": "7.95476, 145.66972",
+		"name": "UAV1",
+		"uid": 133
+	},
+	{
+		"coordinate": "-54.87575, 160.97073",
+		"name": "UAV1",
+		"uid": 111
+	},
+	{
+		"coordinate": "88.41436, -54.06729",
+		"name": "UAV1",
+		"uid": 186
+	},
+	{
+		"coordinate": "-4.45351, -174.48518",
+		"name": "UAV1",
+		"uid": 148
+	},
+	{
+		"coordinate": "-46.91668, -120.2116",
+		"name": "UAV1",
+		"uid": 187
+	},
+	{
+		"coordinate": "-84.70765, 64.74328",
+		"name": "UAV1",
+		"uid": 194
+	},
+	{
+		"coordinate": "8.91483, 102.05105",
+		"name": "UAV1",
+		"uid": 110
+	},
+	{
+		"coordinate": "-82.77473, -110.71368",
+		"name": "UAV1",
+		"uid": 187
+	},
+	{
+		"coordinate": "-37.47099, -55.73947",
+		"name": "UAV1",
+		"uid": 129
+	},
+	{
+		"coordinate": "45.10626, -120.78023",
+		"name": "UAV1",
+		"uid": 102
+	},
+	{
+		"coordinate": "14.03104, -149.67759",
+		"name": "UAV1",
+		"uid": 186
+	},
+	{
+		"coordinate": "21.02256, 75.26739",
+		"name": "UAV1",
+		"uid": 177
+	},
+	{
+		"coordinate": "64.83484, -122.19955",
+		"name": "UAV1",
+		"uid": 176
+	},
+	{
+		"coordinate": "54.78359, -61.69215",
+		"name": "UAV1",
+		"uid": 169
+	},
+	{
+		"coordinate": "-28.97019, -74.36714",
+		"name": "UAV1",
+		"uid": 197
+	},
+	{
+		"coordinate": "-30.97241, -153.08231",
+		"name": "UAV1",
+		"uid": 131
+	},
+	{
+		"coordinate": "-46.41594, 47.9233",
+		"name": "UAV1",
+		"uid": 122
+	},
+	{
+		"coordinate": "10.82655, 146.35587",
+		"name": "UAV1",
+		"uid": 152
+	},
+	{
+		"coordinate": "-37.13462, -146.46884",
+		"name": "UAV1",
+		"uid": 183
+	},
+	{
+		"coordinate": "-86.87377, -7.56432",
+		"name": "UAV1",
+		"uid": 177
+	},
+	{
+		"coordinate": "84.81267, 153.9805",
+		"name": "UAV1",
+		"uid": 172
+	},
+	{
+		"coordinate": "-59.88554, 75.99259",
+		"name": "UAV1",
+		"uid": 164
+	},
+	{
+		"coordinate": "68.10346, -12.26089",
+		"name": "UAV1",
+		"uid": 149
+	},
+	{
+		"coordinate": "-38.21285, -103.25402",
+		"name": "UAV1",
+		"uid": 146
+	},
+	{
+		"coordinate": "-78.07432, -25.4367",
+		"name": "UAV1",
+		"uid": 104
+	},
+	{
+		"coordinate": "32.9044, -79.68925",
+		"name": "UAV1",
+		"uid": 152
+	},
+	{
+		"coordinate": "85.90977, 5.18168",
+		"name": "UAV1",
+		"uid": 105
+	},
+	{
+		"coordinate": "-70.16164, 111.74653",
+		"name": "UAV1",
+		"uid": 135
+	},
+	{
+		"coordinate": "67.53157, 4.8285",
+		"name": "UAV1",
+		"uid": 180
+	},
+	{
+		"coordinate": "29.40725, -123.46034",
+		"name": "UAV1",
+		"uid": 145
+	},
+	{
+		"coordinate": "-12.60203, -15.22",
+		"name": "UAV1",
+		"uid": 180
+	},
+	{
+		"coordinate": "61.78407, -10.31967",
+		"name": "UAV1",
+		"uid": 170
+	},
+	{
+		"coordinate": "-41.99359, 146.55611",
+		"name": "UAV1",
+		"uid": 140
+	},
+	{
+		"coordinate": "65.52303, -5.71664",
+		"name": "UAV2",
+		"uid": 24
+	},
+	{
+		"coordinate": "83.825, -62.75943",
+		"name": "UAV2",
+		"uid": 10
+	},
+	{
+		"coordinate": "-30.1353, 130.45949",
+		"name": "UAV2",
+		"uid": 22
+	},
+	{
+		"coordinate": "4.16415, -88.53441",
+		"name": "UAV2",
+		"uid": 45
+	},
+	{
+		"coordinate": "-59.00379, -31.60421",
+		"name": "UAV2",
+		"uid": 14
+	},
+	{
+		"coordinate": "84.55021, -136.57405",
+		"name": "UAV2",
+		"uid": 41
+	},
+	{
+		"coordinate": "-87.60436, 23.00856",
+		"name": "UAV2",
+		"uid": 51
+	},
+	{
+		"coordinate": "-18.96334, 5.70436",
+		"name": "UAV2",
+		"uid": 84
+	},
+	{
+		"coordinate": "-87.05772, 1.43478",
+		"name": "UAV2",
+		"uid": 74
+	},
+	{
+		"coordinate": "78.77545, 98.95851",
+		"name": "UAV2",
+		"uid": 98
+	},
+	{
+		"coordinate": "86.99861, -88.24054",
+		"name": "UAV2",
+		"uid": 1
+	},
+	{
+		"coordinate": "-85.59411, 141.19957",
+		"name": "UAV2",
+		"uid": 43
+	},
+	{
+		"coordinate": "55.07312, 48.92019",
+		"name": "UAV2",
+		"uid": 96
+	},
+	{
+		"coordinate": "11.82778, 54.23012",
+		"name": "UAV2",
+		"uid": 34
+	},
+	{
+		"coordinate": "7.29405, -89.72591",
+		"name": "UAV2",
+		"uid": 47
+	},
+	{
+		"coordinate": "-70.39785, 172.15948",
+		"name": "UAV2",
+		"uid": 67
+	},
+	{
+		"coordinate": "-5.48276, 136.53797",
+		"name": "UAV2",
+		"uid": 98
+	},
+	{
+		"coordinate": "41.80387, -70.07934",
+		"name": "UAV2",
+		"uid": 74
+	},
+	{
+		"coordinate": "-10.73573, -166.82803",
+		"name": "UAV2",
+		"uid": 6
+	},
+	{
+		"coordinate": "-77.29703, 165.06351",
+		"name": "UAV2",
+		"uid": 81
+	},
+	{
+		"coordinate": "20.52589, -43.8189",
+		"name": "UAV2",
+		"uid": 29
+	},
+	{
+		"coordinate": "32.67929, 34.02967",
+		"name": "UAV2",
+		"uid": 40
+	},
+	{
+		"coordinate": "-89.5971, -46.27751",
+		"name": "UAV2",
+		"uid": 91
+	},
+	{
+		"coordinate": "-16.06396, 27.8507",
+		"name": "UAV2",
+		"uid": 39
+	},
+	{
+		"coordinate": "86.87083, 137.45255",
+		"name": "UAV2",
+		"uid": 53
+	},
+	{
+		"coordinate": "-10.65429, 100.72778",
+		"name": "UAV2",
+		"uid": 44
+	},
+	{
+		"coordinate": "-31.82425, 92.7455",
+		"name": "UAV2",
+		"uid": 27
+	},
+	{
+		"coordinate": "3.90316, 77.63424",
+		"name": "UAV2",
+		"uid": 92
+	},
+	{
+		"coordinate": "-59.902, -165.04647",
+		"name": "UAV2",
+		"uid": 35
+	},
+	{
+		"coordinate": "43.1725, 152.82865",
+		"name": "UAV2",
+		"uid": 85
+	},
+	{
+		"coordinate": "20.64503, 73.68552",
+		"name": "UAV2",
+		"uid": 4
+	},
+	{
+		"coordinate": "-44.10922, 161.4527",
+		"name": "UAV2",
+		"uid": 48
+	},
+	{
+		"coordinate": "-54.76472, 66.32047",
+		"name": "UAV2",
+		"uid": 52
+	},
+	{
+		"coordinate": "-50.89278, -108.08944",
+		"name": "UAV2",
+		"uid": 42
+	},
+	{
+		"coordinate": "16.65668, -78.65985",
+		"name": "UAV2",
+		"uid": 2
+	},
+	{
+		"coordinate": "-35.5543, 65.35161",
+		"name": "UAV2",
+		"uid": 14
+	},
+	{
+		"coordinate": "-83.29433, 172.24934",
+		"name": "UAV2",
+		"uid": 21
+	},
+	{
+		"coordinate": "-28.87349, -63.73612",
+		"name": "UAV2",
+		"uid": 29
+	},
+	{
+		"coordinate": "-10.73808, 38.35138",
+		"name": "UAV2",
+		"uid": 78
+	},
+	{
+		"coordinate": "37.89341, -87.30231",
+		"name": "UAV2",
+		"uid": 86
+	},
+	{
+		"coordinate": "-24.54286, 41.7715",
+		"name": "UAV2",
+		"uid": 38
+	},
+	{
+		"coordinate": "-16.16587, -32.68718",
+		"name": "UAV2",
+		"uid": 87
+	},
+	{
+		"coordinate": "89.43698, -7.49191",
+		"name": "UAV2",
+		"uid": 20
+	},
+	{
+		"coordinate": "-16.1326, -118.81405",
+		"name": "UAV2",
+		"uid": 46
+	},
+	{
+		"coordinate": "83.94419, 73.21138",
+		"name": "UAV2",
+		"uid": 59
+	},
+	{
+		"coordinate": "79.0837, 11.27723",
+		"name": "UAV2",
+		"uid": 71
+	},
+	{
+		"coordinate": "-34.91013, -26.11168",
+		"name": "UAV2",
+		"uid": 46
+	},
+	{
+		"coordinate": "-89.06525, 96.62624",
+		"name": "UAV2",
+		"uid": 45
+	},
+	{
+		"coordinate": "-35.76617, -24.014",
+		"name": "UAV2",
+		"uid": 9
+	},
+	{
+		"coordinate": "-23.39777, -171.65819",
+		"name": "UAV2",
+		"uid": 2
+	},
+	{
+		"coordinate": "-73.88217, 152.32095",
+		"name": "UAV2",
+		"uid": 10
+	},
+	{
+		"coordinate": "-60.27866, -58.05014",
+		"name": "UAV2",
+		"uid": 7
+	},
+	{
+		"coordinate": "18.31693, 147.9303",
+		"name": "UAV2",
+		"uid": 24
+	},
+	{
+		"coordinate": "-60.6562, -139.34595",
+		"name": "UAV2",
+		"uid": 45
+	},
+	{
+		"coordinate": "88.35698, 151.96891",
+		"name": "UAV2",
+		"uid": 10
+	},
+	{
+		"coordinate": "-48.4121, 92.12731",
+		"name": "UAV2",
+		"uid": 42
+	},
+	{
+		"coordinate": "-59.45274, -85.40061",
+		"name": "UAV2",
+		"uid": 4
+	},
+	{
+		"coordinate": "-50.16087, 131.71789",
+		"name": "UAV2",
+		"uid": 95
+	},
+	{
+		"coordinate": "17.2852, -50.61674",
+		"name": "UAV2",
+		"uid": 54
+	},
+	{
+		"coordinate": "-59.28119, 123.34416",
+		"name": "UAV2",
+		"uid": 18
+	},
+	{
+		"coordinate": "-66.99382, 92.27324",
+		"name": "UAV2",
+		"uid": 11
+	},
+	{
+		"coordinate": "-4.29565, 161.99664",
+		"name": "UAV2",
+		"uid": 98
+	},
+	{
+		"coordinate": "13.31914, -51.96287",
+		"name": "UAV2",
+		"uid": 87
+	},
+	{
+		"coordinate": "-62.00384, -127.66575",
+		"name": "UAV2",
+		"uid": 43
+	},
+	{
+		"coordinate": "88.35232, 156.15653",
+		"name": "UAV2",
+		"uid": 28
+	},
+	{
+		"coordinate": "30.47384, 26.3732",
+		"name": "UAV2",
+		"uid": 11
+	},
+	{
+		"coordinate": "36.62951, 64.98454",
+		"name": "UAV2",
+		"uid": 29
+	},
+	{
+		"coordinate": "47.68679, -116.72205",
+		"name": "UAV2",
+		"uid": 47
+	},
+	{
+		"coordinate": "18.98627, 52.42217",
+		"name": "UAV2",
+		"uid": 16
+	},
+	{
+		"coordinate": "23.04907, -82.0698",
+		"name": "UAV2",
+		"uid": 54
+	},
+	{
+		"coordinate": "-47.27095, 13.10419",
+		"name": "UAV2",
+		"uid": 16
+	},
+	{
+		"coordinate": "69.8596, 140.11325",
+		"name": "UAV2",
+		"uid": 17
+	},
+	{
+		"coordinate": "-83.15465, -75.41064",
+		"name": "UAV2",
+		"uid": 55
+	},
+	{
+		"coordinate": "-16.89785, -114.7062",
+		"name": "UAV2",
+		"uid": 10
+	},
+	{
+		"coordinate": "88.80928, -177.68926",
+		"name": "UAV2",
+		"uid": 24
+	},
+	{
+		"coordinate": "-13.74405, -126.15115",
+		"name": "UAV2",
+		"uid": 39
+	},
+	{
+		"coordinate": "-56.17124, 100.12031",
+		"name": "UAV2",
+		"uid": 14
+	},
+	{
+		"coordinate": "-28.79178, 120.93737",
+		"name": "UAV2",
+		"uid": 30
+	},
+	{
+		"coordinate": "33.28904, 12.95309",
+		"name": "UAV2",
+		"uid": 27
+	},
+	{
+		"coordinate": "18.38689, 91.27341",
+		"name": "UAV2",
+		"uid": 88
+	},
+	{
+		"coordinate": "25.37909, -65.65054",
+		"name": "UAV2",
+		"uid": 14
+	},
+	{
+		"coordinate": "-1.39794, 97.45737",
+		"name": "UAV2",
+		"uid": 31
+	},
+	{
+		"coordinate": "-4.72409, 123.0186",
+		"name": "UAV2",
+		"uid": 20
+	},
+	{
+		"coordinate": "-57.8404, 56.49807",
+		"name": "UAV2",
+		"uid": 73
+	},
+	{
+		"coordinate": "-43.26863, -149.16804",
+		"name": "UAV2",
+		"uid": 62
+	},
+	{
+		"coordinate": "-15.69785, 123.84048",
+		"name": "UAV2",
+		"uid": 40
+	},
+	{
+		"coordinate": "-11.33223, -167.7211",
+		"name": "UAV2",
+		"uid": 42
+	},
+	{
+		"coordinate": "80.14378, -47.72895",
+		"name": "UAV2",
+		"uid": 59
+	},
+	{
+		"coordinate": "57.1091, 63.61543",
+		"name": "UAV2",
+		"uid": 61
+	},
+	{
+		"coordinate": "69.8437, -46.98215",
+		"name": "UAV2",
+		"uid": 57
+	},
+	{
+		"coordinate": "0.03971, -17.89925",
+		"name": "UAV2",
+		"uid": 23
+	},
+	{
+		"coordinate": "11.36518, 28.36821",
+		"name": "UAV2",
+		"uid": 60
+	},
+	{
+		"coordinate": "40.40632, -126.79526",
+		"name": "UAV2",
+		"uid": 48
+	},
+	{
+		"coordinate": "-19.44713, 177.34835",
+		"name": "UAV2",
+		"uid": 26
+	},
+	{
+		"coordinate": "-58.1191, 38.97827",
+		"name": "UAV2",
+		"uid": 64
+	},
+	{
+		"coordinate": "-13.20878, 103.58129",
+		"name": "UAV2",
+		"uid": 36
+	},
+	{
+		"coordinate": "20.05755, -175.26117",
+		"name": "UAV2",
+		"uid": 16
+	},
+	{
+		"coordinate": "-84.46044, -138.40582",
+		"name": "UAV2",
+		"uid": 43
+	},
+	{
+		"coordinate": "-66.8452, -14.88218",
+		"name": "UAV2",
+		"uid": 34
+	},
+	{
+		"coordinate": "-63.98587, -108.66945",
+		"name": "UAV2",
+		"uid": 84
+	},
+	{
+		"coordinate": "17.74405, -42.1742",
+		"name": "UAV2",
+		"uid": 153
+	},
+	{
+		"coordinate": "1.78952, -24.94909",
+		"name": "UAV2",
+		"uid": 161
+	},
+	{
+		"coordinate": "72.00906, 57.92135",
+		"name": "UAV2",
+		"uid": 105
+	},
+	{
+		"coordinate": "52.88833, -60.53668",
+		"name": "UAV2",
+		"uid": 145
+	},
+	{
+		"coordinate": "-20.41254, -130.37846",
+		"name": "UAV2",
+		"uid": 186
+	},
+	{
+		"coordinate": "-38.66797, 143.73723",
+		"name": "UAV2",
+		"uid": 120
+	},
+	{
+		"coordinate": "28.07093, 18.37377",
+		"name": "UAV2",
+		"uid": 151
+	},
+	{
+		"coordinate": "21.67324, -6.28101",
+		"name": "UAV2",
+		"uid": 147
+	},
+	{
+		"coordinate": "85.4003, 13.57603",
+		"name": "UAV2",
+		"uid": 190
+	},
+	{
+		"coordinate": "41.80718, 70.34489",
+		"name": "UAV2",
+		"uid": 136
+	},
+	{
+		"coordinate": "-65.13515, -17.74772",
+		"name": "UAV2",
+		"uid": 150
+	},
+	{
+		"coordinate": "-47.43283, -168.81171",
+		"name": "UAV2",
+		"uid": 146
+	},
+	{
+		"coordinate": "51.11653, 133.14993",
+		"name": "UAV2",
+		"uid": 123
+	},
+	{
+		"coordinate": "-68.13712, 85.27501",
+		"name": "UAV2",
+		"uid": 162
+	},
+	{
+		"coordinate": "59.0781, 152.92038",
+		"name": "UAV2",
+		"uid": 113
+	},
+	{
+		"coordinate": "45.70019, -122.99352",
+		"name": "UAV2",
+		"uid": 151
+	},
+	{
+		"coordinate": "-65.07789, 130.71907",
+		"name": "UAV2",
+		"uid": 110
+	},
+	{
+		"coordinate": "-12.65283, 30.83254",
+		"name": "UAV2",
+		"uid": 173
+	},
+	{
+		"coordinate": "34.35593, 105.86573",
+		"name": "UAV2",
+		"uid": 157
+	},
+	{
+		"coordinate": "47.38951, -41.11397",
+		"name": "UAV2",
+		"uid": 164
+	},
+	{
+		"coordinate": "15.12732, -157.55562",
+		"name": "UAV2",
+		"uid": 186
+	},
+	{
+		"coordinate": "-53.06617, -150.74745",
+		"name": "UAV2",
+		"uid": 164
+	},
+	{
+		"coordinate": "0.30911, -55.36164",
+		"name": "UAV2",
+		"uid": 181
+	},
+	{
+		"coordinate": "-1.08827, 113.71215",
+		"name": "UAV2",
+		"uid": 179
+	},
+	{
+		"coordinate": "3.20923, 148.52867",
+		"name": "UAV2",
+		"uid": 171
+	},
+	{
+		"coordinate": "76.7153, -51.41721",
+		"name": "UAV2",
+		"uid": 188
+	},
+	{
+		"coordinate": "13.02024, -20.15293",
+		"name": "UAV2",
+		"uid": 191
+	},
+	{
+		"coordinate": "43.69853, -76.01471",
+		"name": "UAV2",
+		"uid": 142
+	},
+	{
+		"coordinate": "37.77922, 161.01505",
+		"name": "UAV2",
+		"uid": 154
+	},
+	{
+		"coordinate": "-23.28173, 103.90113",
+		"name": "UAV2",
+		"uid": 168
+	},
+	{
+		"coordinate": "-83.87567, -46.66718",
+		"name": "UAV2",
+		"uid": 135
+	},
+	{
+		"coordinate": "-42.20389, -29.11512",
+		"name": "UAV2",
+		"uid": 144
+	},
+	{
+		"coordinate": "-87.1002, 48.01323",
+		"name": "UAV2",
+		"uid": 200
+	},
+	{
+		"coordinate": "-77.8259, -114.27532",
+		"name": "UAV2",
+		"uid": 140
+	},
+	{
+		"coordinate": "73.04235, 156.04522",
+		"name": "UAV2",
+		"uid": 109
+	},
+	{
+		"coordinate": "37.82592, -160.91941",
+		"name": "UAV2",
+		"uid": 163
+	},
+	{
+		"coordinate": "42.46187, 144.20502",
+		"name": "UAV2",
+		"uid": 148
+	},
+	{
+		"coordinate": "-2.77416, -142.08836",
+		"name": "UAV2",
+		"uid": 174
+	},
+	{
+		"coordinate": "63.87501, -153.9095",
+		"name": "UAV2",
+		"uid": 188
+	},
+	{
+		"coordinate": "63.61873, -151.94652",
+		"name": "UAV2",
+		"uid": 129
+	},
+	{
+		"coordinate": "59.55084, 1.80673",
+		"name": "UAV2",
+		"uid": 113
+	},
+	{
+		"coordinate": "-33.29239, -166.68305",
+		"name": "UAV2",
+		"uid": 164
+	},
+	{
+		"coordinate": "-89.1738, -23.02811",
+		"name": "UAV2",
+		"uid": 142
+	},
+	{
+		"coordinate": "74.73251, -32.88387",
+		"name": "UAV2",
+		"uid": 148
+	},
+	{
+		"coordinate": "-81.38502, 96.9414",
+		"name": "UAV2",
+		"uid": 110
+	},
+	{
+		"coordinate": "61.28521, -79.06389",
+		"name": "UAV2",
+		"uid": 141
+	},
+	{
+		"coordinate": "-6.70917, 63.42333",
+		"name": "UAV2",
+		"uid": 197
+	},
+	{
+		"coordinate": "-13.50342, 2.90761",
+		"name": "UAV2",
+		"uid": 198
+	},
+	{
+		"coordinate": "-13.14979, -113.29442",
+		"name": "UAV2",
+		"uid": 173
+	},
+	{
+		"coordinate": "61.79109, -51.86515",
+		"name": "UAV2",
+		"uid": 145
+	},
+	{
+		"coordinate": "83.01599, 19.87361",
+		"name": "UAV2",
+		"uid": 143
+	},
+	{
+		"coordinate": "37.65553, 174.73046",
+		"name": "UAV2",
+		"uid": 194
+	},
+	{
+		"coordinate": "54.89667, -36.96685",
+		"name": "UAV2",
+		"uid": 127
+	},
+	{
+		"coordinate": "29.38219, -79.67991",
+		"name": "UAV2",
+		"uid": 141
+	},
+	{
+		"coordinate": "77.22176, 163.13527",
+		"name": "UAV2",
+		"uid": 126
+	},
+	{
+		"coordinate": "-45.00182, -22.11552",
+		"name": "UAV2",
+		"uid": 145
+	},
+	{
+		"coordinate": "26.95088, 112.50491",
+		"name": "UAV2",
+		"uid": 138
+	},
+	{
+		"coordinate": "51.5188, -90.52471",
+		"name": "UAV2",
+		"uid": 176
+	},
+	{
+		"coordinate": "-46.31146, 117.39784",
+		"name": "UAV2",
+		"uid": 122
+	},
+	{
+		"coordinate": "48.80673, -19.93713",
+		"name": "UAV2",
+		"uid": 140
+	},
+	{
+		"coordinate": "34.49893, -59.07433",
+		"name": "UAV2",
+		"uid": 112
+	},
+	{
+		"coordinate": "33.96459, -5.81941",
+		"name": "UAV2",
+		"uid": 149
+	},
+	{
+		"coordinate": "58.45765, -141.30973",
+		"name": "UAV2",
+		"uid": 155
+	},
+	{
+		"coordinate": "-89.58008, 11.79022",
+		"name": "UAV2",
+		"uid": 172
+	},
+	{
+		"coordinate": "-73.12983, 129.92368",
+		"name": "UAV2",
+		"uid": 191
+	},
+	{
+		"coordinate": "-68.70971, -100.57652",
+		"name": "UAV2",
+		"uid": 133
+	},
+	{
+		"coordinate": "-89.21784, 6.85099",
+		"name": "UAV2",
+		"uid": 169
+	},
+	{
+		"coordinate": "18.33233, 161.16015",
+		"name": "UAV2",
+		"uid": 122
+	},
+	{
+		"coordinate": "-82.13067, -134.4592",
+		"name": "UAV2",
+		"uid": 123
+	},
+	{
+		"coordinate": "6.2398, 36.24519",
+		"name": "UAV2",
+		"uid": 177
+	},
+	{
+		"coordinate": "-4.81587, 131.03847",
+		"name": "UAV2",
+		"uid": 157
+	},
+	{
+		"coordinate": "62.43187, -23.17336",
+		"name": "UAV2",
+		"uid": 187
+	},
+	{
+		"coordinate": "14.74866, 5.56753",
+		"name": "UAV2",
+		"uid": 111
+	},
+	{
+		"coordinate": "51.45827, 170.12733",
+		"name": "UAV2",
+		"uid": 140
+	},
+	{
+		"coordinate": "-17.86472, -36.9913",
+		"name": "UAV2",
+		"uid": 126
+	},
+	{
+		"coordinate": "-60.34294, 75.62211",
+		"name": "UAV2",
+		"uid": 174
+	},
+	{
+		"coordinate": "42.67106, -78.48935",
+		"name": "UAV2",
+		"uid": 116
+	},
+	{
+		"coordinate": "5.67624, -89.05968",
+		"name": "UAV2",
+		"uid": 107
+	},
+	{
+		"coordinate": "-30.22539, 40.12614",
+		"name": "UAV2",
+		"uid": 116
+	},
+	{
+		"coordinate": "10.39286, 55.63989",
+		"name": "UAV2",
+		"uid": 182
+	},
+	{
+		"coordinate": "-71.32895, -100.41194",
+		"name": "UAV2",
+		"uid": 109
+	},
+	{
+		"coordinate": "75.38837, -56.91536",
+		"name": "UAV2",
+		"uid": 124
+	},
+	{
+		"coordinate": "65.31695, 9.40683",
+		"name": "UAV2",
+		"uid": 131
+	},
+	{
+		"coordinate": "-22.65361, 91.18266",
+		"name": "UAV2",
+		"uid": 145
+	},
+	{
+		"coordinate": "60.66551, 21.80887",
+		"name": "UAV2",
+		"uid": 157
+	},
+	{
+		"coordinate": "-51.92559, -67.64253",
+		"name": "UAV2",
+		"uid": 121
+	},
+	{
+		"coordinate": "76.50321, 83.70983",
+		"name": "UAV2",
+		"uid": 198
+	},
+	{
+		"coordinate": "-35.87585, 105.63369",
+		"name": "UAV2",
+		"uid": 180
+	},
+	{
+		"coordinate": "-69.76021, 131.1131",
+		"name": "UAV2",
+		"uid": 146
+	},
+	{
+		"coordinate": "9.15336, -175.83307",
+		"name": "UAV2",
+		"uid": 129
+	},
+	{
+		"coordinate": "6.85535, 142.80154",
+		"name": "UAV2",
+		"uid": 142
+	},
+	{
+		"coordinate": "53.47008, -4.69848",
+		"name": "UAV2",
+		"uid": 146
+	},
+	{
+		"coordinate": "-10.89125, 21.12749",
+		"name": "UAV2",
+		"uid": 137
+	},
+	{
+		"coordinate": "10.62977, -70.13739",
+		"name": "UAV2",
+		"uid": 198
+	},
+	{
+		"coordinate": "73.05644, -160.12612",
+		"name": "UAV2",
+		"uid": 168
+	},
+	{
+		"coordinate": "55.38746, -148.13466",
+		"name": "UAV2",
+		"uid": 148
+	},
+	{
+		"coordinate": "51.46847, 121.69037",
+		"name": "UAV2",
+		"uid": 147
+	},
+	{
+		"coordinate": "47.80413, 100.83129",
+		"name": "UAV2",
+		"uid": 150
+	},
+	{
+		"coordinate": "2.09899, 46.57306",
+		"name": "UAV2",
+		"uid": 200
+	},
+	{
+		"coordinate": "59.34265, 44.89995",
+		"name": "UAV2",
+		"uid": 155
+	},
+	{
+		"coordinate": "71.05939, 57.44697",
+		"name": "UAV3",
+		"uid": 86
+	},
+	{
+		"coordinate": "-1.14253, 86.84987",
+		"name": "UAV3",
+		"uid": 96
+	},
+	{
+		"coordinate": "31.12479, -27.5355",
+		"name": "UAV3",
+		"uid": 7
+	},
+	{
+		"coordinate": "28.89154, 46.06362",
+		"name": "UAV3",
+		"uid": 99
+	},
+	{
+		"coordinate": "16.31123, 11.04816",
+		"name": "UAV3",
+		"uid": 79
+	},
+	{
+		"coordinate": "-13.53292, -73.12414",
+		"name": "UAV3",
+		"uid": 98
+	},
+	{
+		"coordinate": "19.49278, 100.09814",
+		"name": "UAV3",
+		"uid": 89
+	},
+	{
+		"coordinate": "1.21568, -56.5472",
+		"name": "UAV3",
+		"uid": 36
+	},
+	{
+		"coordinate": "-14.67404, -56.86565",
+		"name": "UAV3",
+		"uid": 91
+	},
+	{
+		"coordinate": "10.49341, 155.95224",
+		"name": "UAV3",
+		"uid": 82
+	},
+	{
+		"coordinate": "40.56095, -107.98175",
+		"name": "UAV3",
+		"uid": 37
+	},
+	{
+		"coordinate": "45.40552, 158.06283",
+		"name": "UAV3",
+		"uid": 79
+	},
+	{
+		"coordinate": "-53.39354, -138.73594",
+		"name": "UAV3",
+		"uid": 59
+	},
+	{
+		"coordinate": "60.35896, -157.51179",
+		"name": "UAV3",
+		"uid": 80
+	},
+	{
+		"coordinate": "-28.82877, -85.31506",
+		"name": "UAV3",
+		"uid": 69
+	},
+	{
+		"coordinate": "8.86434, -11.14442",
+		"name": "UAV3",
+		"uid": 33
+	},
+	{
+		"coordinate": "-45.07946, -47.93721",
+		"name": "UAV3",
+		"uid": 30
+	},
+	{
+		"coordinate": "-5.47189, 100.6564",
+		"name": "UAV3",
+		"uid": 60
+	},
+	{
+		"coordinate": "25.48193, -178.29904",
+		"name": "UAV3",
+		"uid": 55
+	},
+	{
+		"coordinate": "38.66276, 34.50287",
+		"name": "UAV3",
+		"uid": 96
+	},
+	{
+		"coordinate": "11.60143, 58.46701",
+		"name": "UAV3",
+		"uid": 81
+	},
+	{
+		"coordinate": "-25.97884, 42.80759",
+		"name": "UAV3",
+		"uid": 18
+	},
+	{
+		"coordinate": "-23.32488, 44.67576",
+		"name": "UAV3",
+		"uid": 13
+	},
+	{
+		"coordinate": "-69.9449, 19.61144",
+		"name": "UAV3",
+		"uid": 8
+	},
+	{
+		"coordinate": "30.86713, -132.72558",
+		"name": "UAV3",
+		"uid": 23
+	},
+	{
+		"coordinate": "-78.12526, -10.01432",
+		"name": "UAV3",
+		"uid": 97
+	},
+	{
+		"coordinate": "-22.24514, 107.56395",
+		"name": "UAV3",
+		"uid": 80
+	},
+	{
+		"coordinate": "-35.74604, -59.59284",
+		"name": "UAV3",
+		"uid": 25
+	},
+	{
+		"coordinate": "76.8922, 116.81417",
+		"name": "UAV3",
+		"uid": 99
+	},
+	{
+		"coordinate": "-61.32106, -173.5782",
+		"name": "UAV3",
+		"uid": 80
+	},
+	{
+		"coordinate": "-2.19798, -53.15543",
+		"name": "UAV3",
+		"uid": 81
+	},
+	{
+		"coordinate": "58.32651, 123.54519",
+		"name": "UAV3",
+		"uid": 1
+	},
+	{
+		"coordinate": "-66.18868, 74.15967",
+		"name": "UAV3",
+		"uid": 2
+	},
+	{
+		"coordinate": "-78.33108, 146.1037",
+		"name": "UAV3",
+		"uid": 11
+	},
+	{
+		"coordinate": "-42.8108, 114.82208",
+		"name": "UAV3",
+		"uid": 50
+	},
+	{
+		"coordinate": "53.35244, 103.96722",
+		"name": "UAV3",
+		"uid": 66
+	},
+	{
+		"coordinate": "-17.32065, -59.53551",
+		"name": "UAV3",
+		"uid": 70
+	},
+	{
+		"coordinate": "51.07405, 95.82909",
+		"name": "UAV3",
+		"uid": 8
+	},
+	{
+		"coordinate": "-47.50485, 111.41326",
+		"name": "UAV3",
+		"uid": 47
+	},
+	{
+		"coordinate": "-63.02524, 91.05672",
+		"name": "UAV3",
+		"uid": 3
+	},
+	{
+		"coordinate": "-13.23154, -140.91896",
+		"name": "UAV3",
+		"uid": 85
+	},
+	{
+		"coordinate": "-84.93875, -26.45973",
+		"name": "UAV3",
+		"uid": 38
+	},
+	{
+		"coordinate": "-32.46358, 58.64206",
+		"name": "UAV3",
+		"uid": 61
+	},
+	{
+		"coordinate": "-23.81851, 96.85467",
+		"name": "UAV3",
+		"uid": 65
+	},
+	{
+		"coordinate": "-89.29468, 87.98044",
+		"name": "UAV3",
+		"uid": 16
+	},
+	{
+		"coordinate": "-29.81204, 51.19556",
+		"name": "UAV3",
+		"uid": 24
+	},
+	{
+		"coordinate": "68.82198, -161.97404",
+		"name": "UAV3",
+		"uid": 96
+	},
+	{
+		"coordinate": "-60.79951, 56.99362",
+		"name": "UAV3",
+		"uid": 70
+	},
+	{
+		"coordinate": "67.55473, 117.86409",
+		"name": "UAV3",
+		"uid": 24
+	},
+	{
+		"coordinate": "-20.69986, 21.90763",
+		"name": "UAV3",
+		"uid": 68
+	},
+	{
+		"coordinate": "-5.80762, 39.64706",
+		"name": "UAV3",
+		"uid": 29
+	},
+	{
+		"coordinate": "-83.43518, 48.78462",
+		"name": "UAV3",
+		"uid": 6
+	},
+	{
+		"coordinate": "-45.55352, -29.42707",
+		"name": "UAV3",
+		"uid": 2
+	},
+	{
+		"coordinate": "38.55434, 3.31257",
+		"name": "UAV3",
+		"uid": 2
+	},
+	{
+		"coordinate": "39.78409, 50.00513",
+		"name": "UAV3",
+		"uid": 75
+	},
+	{
+		"coordinate": "-71.64466, -166.13019",
+		"name": "UAV3",
+		"uid": 95
+	},
+	{
+		"coordinate": "-63.28707, -125.50319",
+		"name": "UAV3",
+		"uid": 53
+	},
+	{
+		"coordinate": "-7.24585, -161.54182",
+		"name": "UAV3",
+		"uid": 26
+	},
+	{
+		"coordinate": "-65.12053, 28.0089",
+		"name": "UAV3",
+		"uid": 6
+	},
+	{
+		"coordinate": "62.20329, 169.23072",
+		"name": "UAV3",
+		"uid": 65
+	},
+	{
+		"coordinate": "-75.01031, -41.19382",
+		"name": "UAV3",
+		"uid": 14
+	},
+	{
+		"coordinate": "22.98402, -13.29931",
+		"name": "UAV3",
+		"uid": 53
+	},
+	{
+		"coordinate": "-59.86682, 137.50758",
+		"name": "UAV3",
+		"uid": 38
+	},
+	{
+		"coordinate": "3.83081, -125.31286",
+		"name": "UAV3",
+		"uid": 5
+	},
+	{
+		"coordinate": "2.04774, -107.1573",
+		"name": "UAV3",
+		"uid": 91
+	},
+	{
+		"coordinate": "4.07228, 95.01394",
+		"name": "UAV3",
+		"uid": 27
+	},
+	{
+		"coordinate": "-82.88565, -91.35432",
+		"name": "UAV3",
+		"uid": 96
+	},
+	{
+		"coordinate": "-82.86112, -151.82054",
+		"name": "UAV3",
+		"uid": 88
+	},
+	{
+		"coordinate": "-70.07614, -23.72609",
+		"name": "UAV3",
+		"uid": 23
+	},
+	{
+		"coordinate": "-7.40324, -50.79329",
+		"name": "UAV3",
+		"uid": 74
+	},
+	{
+		"coordinate": "-4.92255, 83.19797",
+		"name": "UAV3",
+		"uid": 29
+	},
+	{
+		"coordinate": "-87.18495, 117.07147",
+		"name": "UAV3",
+		"uid": 92
+	},
+	{
+		"coordinate": "-9.94112, -179.60295",
+		"name": "UAV3",
+		"uid": 42
+	},
+	{
+		"coordinate": "-88.68087, -10.07119",
+		"name": "UAV3",
+		"uid": 34
+	},
+	{
+		"coordinate": "-13.33503, 83.47053",
+		"name": "UAV3",
+		"uid": 83
+	},
+	{
+		"coordinate": "51.7973, 61.54771",
+		"name": "UAV3",
+		"uid": 84
+	},
+	{
+		"coordinate": "-52.43547, -175.07518",
+		"name": "UAV3",
+		"uid": 40
+	},
+	{
+		"coordinate": "85.60307, 140.18079",
+		"name": "UAV3",
+		"uid": 16
+	},
+	{
+		"coordinate": "-81.68913, 107.62869",
+		"name": "UAV3",
+		"uid": 43
+	},
+	{
+		"coordinate": "43.03651, -88.19712",
+		"name": "UAV3",
+		"uid": 32
+	},
+	{
+		"coordinate": "-54.97279, -33.25675",
+		"name": "UAV3",
+		"uid": 74
+	},
+	{
+		"coordinate": "30.54739, -7.28303",
+		"name": "UAV3",
+		"uid": 19
+	},
+	{
+		"coordinate": "-31.85173, -95.32314",
+		"name": "UAV3",
+		"uid": 40
+	},
+	{
+		"coordinate": "-55.95615, -55.32583",
+		"name": "UAV3",
+		"uid": 66
+	},
+	{
+		"coordinate": "-67.3724, 110.17439",
+		"name": "UAV3",
+		"uid": 77
+	},
+	{
+		"coordinate": "-76.98424, 17.19061",
+		"name": "UAV3",
+		"uid": 45
+	},
+	{
+		"coordinate": "-87.84997, 44.59154",
+		"name": "UAV3",
+		"uid": 30
+	},
+	{
+		"coordinate": "3.11507, 63.6245",
+		"name": "UAV3",
+		"uid": 100
+	},
+	{
+		"coordinate": "-54.12103, -37.30353",
+		"name": "UAV3",
+		"uid": 98
+	},
+	{
+		"coordinate": "10.72912, 60.66833",
+		"name": "UAV3",
+		"uid": 87
+	},
+	{
+		"coordinate": "26.48006, 32.82194",
+		"name": "UAV3",
+		"uid": 9
+	},
+	{
+		"coordinate": "10.99296, -97.83328",
+		"name": "UAV3",
+		"uid": 36
+	},
+	{
+		"coordinate": "52.0343, -163.91421",
+		"name": "UAV3",
+		"uid": 84
+	},
+	{
+		"coordinate": "-57.16785, -26.99458",
+		"name": "UAV3",
+		"uid": 26
+	},
+	{
+		"coordinate": "22.62614, 45.19509",
+		"name": "UAV3",
+		"uid": 39
+	},
+	{
+		"coordinate": "7.55996, -161.08074",
+		"name": "UAV3",
+		"uid": 63
+	},
+	{
+		"coordinate": "-51.82273, 159.82731",
+		"name": "UAV3",
+		"uid": 55
+	},
+	{
+		"coordinate": "-56.67897, -148.19774",
+		"name": "UAV3",
+		"uid": 13
+	},
+	{
+		"coordinate": "-44.45647, 116.33415",
+		"name": "UAV3",
+		"uid": 15
+	},
+	{
+		"coordinate": "12.90522, 82.00739",
+		"name": "UAV3",
+		"uid": 24
+	},
+	{
+		"coordinate": "62.68671, 66.42263",
+		"name": "UAV3",
+		"uid": 166
+	},
+	{
+		"coordinate": "13.31655, -6.95582",
+		"name": "UAV3",
+		"uid": 161
+	},
+	{
+		"coordinate": "-20.66175, -57.82728",
+		"name": "UAV3",
+		"uid": 118
+	},
+	{
+		"coordinate": "75.97953, -50.33022",
+		"name": "UAV3",
+		"uid": 110
+	},
+	{
+		"coordinate": "-21.6092, 67.5984",
+		"name": "UAV3",
+		"uid": 199
+	},
+	{
+		"coordinate": "8.11559, 11.74104",
+		"name": "UAV3",
+		"uid": 160
+	},
+	{
+		"coordinate": "5.73339, -171.77283",
+		"name": "UAV3",
+		"uid": 131
+	},
+	{
+		"coordinate": "89.47249, 7.57798",
+		"name": "UAV3",
+		"uid": 109
+	},
+	{
+		"coordinate": "89.45374, -172.27406",
+		"name": "UAV3",
+		"uid": 198
+	},
+	{
+		"coordinate": "-55.39027, 159.12532",
+		"name": "UAV3",
+		"uid": 164
+	},
+	{
+		"coordinate": "-45.33133, 102.2039",
+		"name": "UAV3",
+		"uid": 157
+	},
+	{
+		"coordinate": "-61.93866, -77.88421",
+		"name": "UAV3",
+		"uid": 129
+	},
+	{
+		"coordinate": "20.97783, 24.95967",
+		"name": "UAV3",
+		"uid": 131
+	},
+	{
+		"coordinate": "-46.30806, 64.78856",
+		"name": "UAV3",
+		"uid": 143
+	},
+	{
+		"coordinate": "76.11778, -126.37977",
+		"name": "UAV3",
+		"uid": 197
+	},
+	{
+		"coordinate": "70.11626, 156.16436",
+		"name": "UAV3",
+		"uid": 138
+	},
+	{
+		"coordinate": "-19.83974, 87.50879",
+		"name": "UAV3",
+		"uid": 118
+	},
+	{
+		"coordinate": "19.29069, -118.64441",
+		"name": "UAV3",
+		"uid": 162
+	},
+	{
+		"coordinate": "77.12159, -178.03211",
+		"name": "UAV3",
+		"uid": 160
+	},
+	{
+		"coordinate": "29.5364, 11.03658",
+		"name": "UAV3",
+		"uid": 199
+	},
+	{
+		"coordinate": "30.35386, -136.951",
+		"name": "UAV3",
+		"uid": 119
+	},
+	{
+		"coordinate": "11.44721, -170.97632",
+		"name": "UAV3",
+		"uid": 151
+	},
+	{
+		"coordinate": "0.04384, 141.91575",
+		"name": "UAV3",
+		"uid": 170
+	},
+	{
+		"coordinate": "-31.45567, 72.69539",
+		"name": "UAV3",
+		"uid": 121
+	},
+	{
+		"coordinate": "35.36058, 153.0318",
+		"name": "UAV3",
+		"uid": 104
+	},
+	{
+		"coordinate": "-84.43566, -26.55418",
+		"name": "UAV3",
+		"uid": 142
+	},
+	{
+		"coordinate": "70.11893, -118.64246",
+		"name": "UAV3",
+		"uid": 105
+	},
+	{
+		"coordinate": "-86.31592, 107.53864",
+		"name": "UAV3",
+		"uid": 140
+	},
+	{
+		"coordinate": "-71.7918, 22.14229",
+		"name": "UAV3",
+		"uid": 113
+	},
+	{
+		"coordinate": "-26.46129, -124.10327",
+		"name": "UAV3",
+		"uid": 143
+	},
+	{
+		"coordinate": "28.17453, 155.66236",
+		"name": "UAV3",
+		"uid": 198
+	},
+	{
+		"coordinate": "-52.83963, 159.86147",
+		"name": "UAV3",
+		"uid": 144
+	},
+	{
+		"coordinate": "-82.76503, -137.00401",
+		"name": "UAV3",
+		"uid": 109
+	},
+	{
+		"coordinate": "51.86396, 58.14591",
+		"name": "UAV3",
+		"uid": 163
+	},
+	{
+		"coordinate": "67.80441, 175.06165",
+		"name": "UAV3",
+		"uid": 179
+	},
+	{
+		"coordinate": "78.5389, 114.65248",
+		"name": "UAV3",
+		"uid": 151
+	},
+	{
+		"coordinate": "-59.2713, -145.06466",
+		"name": "UAV3",
+		"uid": 131
+	},
+	{
+		"coordinate": "-58.53027, -21.51194",
+		"name": "UAV3",
+		"uid": 140
+	},
+	{
+		"coordinate": "-15.54195, -170.15885",
+		"name": "UAV3",
+		"uid": 175
+	},
+	{
+		"coordinate": "-71.63585, 159.71548",
+		"name": "UAV3",
+		"uid": 178
+	},
+	{
+		"coordinate": "13.44789, -145.68255",
+		"name": "UAV3",
+		"uid": 148
+	},
+	{
+		"coordinate": "-35.66681, -94.75204",
+		"name": "UAV3",
+		"uid": 154
+	},
+	{
+		"coordinate": "63.47155, -21.62824",
+		"name": "UAV3",
+		"uid": 143
+	},
+	{
+		"coordinate": "-47.16304, -20.21196",
+		"name": "UAV3",
+		"uid": 103
+	},
+	{
+		"coordinate": "-34.97042, 48.92482",
+		"name": "UAV3",
+		"uid": 103
+	},
+	{
+		"coordinate": "1.35278, 169.22237",
+		"name": "UAV3",
+		"uid": 185
+	},
+	{
+		"coordinate": "-17.75139, 169.7659",
+		"name": "UAV3",
+		"uid": 194
+	},
+	{
+		"coordinate": "14.79405, 20.56687",
+		"name": "UAV3",
+		"uid": 183
+	},
+	{
+		"coordinate": "36.47569, 96.29899",
+		"name": "UAV3",
+		"uid": 157
+	},
+	{
+		"coordinate": "59.37777, -97.78545",
+		"name": "UAV3",
+		"uid": 147
+	},
+	{
+		"coordinate": "27.61394, -115.5853",
+		"name": "UAV3",
+		"uid": 122
+	},
+	{
+		"coordinate": "7.44741, -59.5136",
+		"name": "UAV3",
+		"uid": 182
+	},
+	{
+		"coordinate": "39.14677, -79.83665",
+		"name": "UAV3",
+		"uid": 142
+	},
+	{
+		"coordinate": "39.00342, 47.96272",
+		"name": "UAV3",
+		"uid": 124
+	},
+	{
+		"coordinate": "-83.5571, -73.86414",
+		"name": "UAV3",
+		"uid": 177
+	},
+	{
+		"coordinate": "-46.61642, -9.34905",
+		"name": "UAV3",
+		"uid": 103
+	},
+	{
+		"coordinate": "22.22455, -83.69254",
+		"name": "UAV3",
+		"uid": 160
+	},
+	{
+		"coordinate": "-66.04468, 17.04909",
+		"name": "UAV3",
+		"uid": 123
+	},
+	{
+		"coordinate": "85.42466, -104.91535",
+		"name": "UAV3",
+		"uid": 184
+	},
+	{
+		"coordinate": "-44.8775, -141.93673",
+		"name": "UAV3",
+		"uid": 160
+	},
+	{
+		"coordinate": "-34.66376, 36.7018",
+		"name": "UAV3",
+		"uid": 200
+	},
+	{
+		"coordinate": "74.02326, -21.86467",
+		"name": "UAV3",
+		"uid": 107
+	},
+	{
+		"coordinate": "-30.33301, -16.99617",
+		"name": "UAV3",
+		"uid": 144
+	},
+	{
+		"coordinate": "59.16279, 167.40702",
+		"name": "UAV3",
+		"uid": 123
+	},
+	{
+		"coordinate": "10.82229, -47.33831",
+		"name": "UAV3",
+		"uid": 110
+	},
+	{
+		"coordinate": "8.22884, -86.07792",
+		"name": "UAV3",
+		"uid": 108
+	},
+	{
+		"coordinate": "8.61481, -179.20121",
+		"name": "UAV3",
+		"uid": 157
+	},
+	{
+		"coordinate": "-7.30752, -19.2846",
+		"name": "UAV3",
+		"uid": 128
+	},
+	{
+		"coordinate": "-22.65975, -9.01826",
+		"name": "UAV3",
+		"uid": 126
+	},
+	{
+		"coordinate": "-73.47325, 113.10262",
+		"name": "UAV3",
+		"uid": 131
+	},
+	{
+		"coordinate": "-80.12213, 125.82138",
+		"name": "UAV3",
+		"uid": 191
+	},
+	{
+		"coordinate": "46.79914, 170.3125",
+		"name": "UAV3",
+		"uid": 120
+	},
+	{
+		"coordinate": "2.34664, 102.98334",
+		"name": "UAV3",
+		"uid": 168
+	},
+	{
+		"coordinate": "-57.08834, -52.90001",
+		"name": "UAV3",
+		"uid": 156
+	},
+	{
+		"coordinate": "-38.49223, -67.02109",
+		"name": "UAV3",
+		"uid": 109
+	},
+	{
+		"coordinate": "11.41302, 18.38664",
+		"name": "UAV3",
+		"uid": 162
+	},
+	{
+		"coordinate": "59.46278, 76.51937",
+		"name": "UAV3",
+		"uid": 171
+	},
+	{
+		"coordinate": "60.40955, -63.09513",
+		"name": "UAV3",
+		"uid": 132
+	},
+	{
+		"coordinate": "16.87613, 123.90163",
+		"name": "UAV3",
+		"uid": 104
+	},
+	{
+		"coordinate": "26.39778, -147.19977",
+		"name": "UAV3",
+		"uid": 115
+	},
+	{
+		"coordinate": "-1.84705, -26.19131",
+		"name": "UAV3",
+		"uid": 170
+	},
+	{
+		"coordinate": "-26.2757, -158.37732",
+		"name": "UAV3",
+		"uid": 178
+	},
+	{
+		"coordinate": "74.89643, -146.07001",
+		"name": "UAV3",
+		"uid": 180
+	},
+	{
+		"coordinate": "-12.75447, -7.56224",
+		"name": "UAV3",
+		"uid": 136
+	},
+	{
+		"coordinate": "-61.60509, -113.99649",
+		"name": "UAV3",
+		"uid": 153
+	},
+	{
+		"coordinate": "73.47267, -21.66083",
+		"name": "UAV3",
+		"uid": 176
+	},
+	{
+		"coordinate": "-20.24766, 114.14589",
+		"name": "UAV3",
+		"uid": 169
+	},
+	{
+		"coordinate": "-18.15589, -31.95481",
+		"name": "UAV3",
+		"uid": 125
+	},
+	{
+		"coordinate": "61.81083, -72.15199",
+		"name": "UAV3",
+		"uid": 119
+	},
+	{
+		"coordinate": "-61.21325, -95.56395",
+		"name": "UAV3",
+		"uid": 161
+	},
+	{
+		"coordinate": "45.44699, 66.52124",
+		"name": "UAV3",
+		"uid": 140
+	},
+	{
+		"coordinate": "45.74413, 6.03998",
+		"name": "UAV3",
+		"uid": 150
+	},
+	{
+		"coordinate": "69.08294, -118.01947",
+		"name": "UAV3",
+		"uid": 163
+	},
+	{
+		"coordinate": "15.85445, -126.73585",
+		"name": "UAV3",
+		"uid": 155
+	},
+	{
+		"coordinate": "41.31881, -104.33801",
+		"name": "UAV3",
+		"uid": 124
+	},
+	{
+		"coordinate": "25.00222, 87.89463",
+		"name": "UAV3",
+		"uid": 115
+	},
+	{
+		"coordinate": "15.20016, 38.53743",
+		"name": "UAV3",
+		"uid": 142
+	},
+	{
+		"coordinate": "25.00657, 23.03662",
+		"name": "UAV3",
+		"uid": 178
+	},
+	{
+		"coordinate": "-47.91383, -33.16261",
+		"name": "UAV3",
+		"uid": 129
+	},
+	{
+		"coordinate": "-88.02876, -46.40475",
+		"name": "UAV3",
+		"uid": 177
+	}
+]

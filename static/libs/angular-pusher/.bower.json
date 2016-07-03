@@ -1,0 +1,39 @@
+{
+  "name": "angular-pusher",
+  "version": "0.0.14",
+  "authors": [
+    "brian.woodward@gmail.com"
+  ],
+  "description": "AngularJS provider and service for Pusher",
+  "main": "./angular-pusher.js",
+  "keywords": [
+    "angular",
+    "AngularJS",
+    "provider",
+    "service",
+    "angular-pusher",
+    "pusher"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/doowb/angular-pusher",
+  "_release": "0.0.14",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.14",
+    "commit": "9d7c2b33e49fc8bb79bfedb73ff307929030038e"
+  },
+  "_source": "https://github.com/doowb/angular-pusher.git",
+  "_target": "0.0.14",
+  "_originalSource": "angular-pusher"
+}

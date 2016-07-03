@@ -1,0 +1,23 @@
+{
+  "name": "asteria",
+  "homepage": "https://github.com/subhafastnfurious/UAVSystemMonitoring",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4.9",
+    "angular-animate": "1.4.2",
+    "angular-aria": "1.4.2",
+    "angular-bootstrap": "1.1.2",
+    "angular-cookies": "1.4.7",
+    "angular-load": "0.4.0",
+    "angular-material": "0.10.0",
+    "angular-messages": "1.4.2",
+    "angular-mocks": "1.4.3",
+    "angular-pusher": "0.0.14",
+    "angular-sanitize": "1.4.2",
+    "angular-scroll-glue": "2.0.6",
+    "angular-ui-router": "0.3.0",
+    "angular-google-maps"
+  }	
+}

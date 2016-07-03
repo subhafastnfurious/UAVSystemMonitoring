@@ -1,0 +1,33 @@
+
+<md-tabs md-center-tabs md-dynamic-height>
+  <md-tab label="UVAS" md-on-select='startGettingLocation()' md-on-deselect='StopTimer()'>
+  	<div align="center">
+		<ui-gmap-google-map center='map.center' zoom='map.zoom'>
+			<ui-gmap-marker coords="marker.coords" options="marker.options" 
+			                click='showChart($event,marker.options.title)'  idkey="marker.id">
+		        </ui-gmap-marker>
+			<ui-gmap-marker coords="marker2.coords" options="marker2.options" idkey="marker2.id"
+			                click='showChart($event,marker2.options.title)'>
+		        </ui-gmap-marker>
+			<ui-gmap-marker coords="marker3.coords" options="marker3.options" idkey="marker3.id"
+			                click='showChart($event,marker3.options.title)'>
+		        </ui-gmap-marker>
+		</ui-gmap-google-map>
+	</div>
+  </md-tab>
+  <md-tab label="USERS">
+  		<md-button class="md-raised md-primary" ui-sref='user-add'>Add Users</md-button>
+  		<md-list>
+		  <md-list-item ng-repeat="user in users">
+	  		  <div flex layout="row">
+			    <strong flex="25">{{user.username}}</strong>
+			    <strong flex="25">{{user.email}}</strong>
+			    <md-button flex='25' class="md-warn md-primary">View</md-button>
+			    <md-button flex='25' class="md-warn md-primary" ng-click='deleteuser(user.id)'>
+			    Delete</md-button>
+			  </div>
+		  </md-list-item>
+		  <md-divider></md-divider>
+		</md-list>
+  </md-tab>
+</md-tabs>

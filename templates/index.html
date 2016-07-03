@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<script src="/static/libs/angular/angular.min.js"></script>
+	<link rel="stylesheet" href="/static/libs/angular-material/angular-material.min.css">
+	<script src="/static/libs/angular-material/angular-material.min.js"></script>
+    <script type="text/javascript" src='/static/libs/angular-ui-router/release/angular-ui-router.min.js'></script> 
+  	<script src="/static/libs/angular-animate/angular-animate.min.js"></script>
+  	<script src="/static/libs/angular-aria/angular-aria.min.js"></script>
+    <script type="text/javascript" src='/static/controllers.js'></script>
+    <script type="text/javascript" src='/static/app.js'></script>
+
+    <script src='/static/libs/lodash/lodash.js'></script>
+	<script src='/static/libs/angular-simple-logger/dist/angular-simple-logger.min.js'></script>
+	<script src='/static/libs/angular-google-maps/dist/angular-google-maps.min.js'></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDL13WBjY-gcJSIESLXmPUHCrWXht9qxHE"></script>
+	<style>
+		.angular-google-map-container { 
+		    height: 460px;
+		    width: 750px;	
+		}
+	</style>
+</head>
+<body>
+	<div ng-app='toolbarDemo2'>
+	  <md-toolbar>
+	    <div class="md-toolbar-tools">
+	  		<md-icon ui-sref='home'>home</md-icon>   
+	  		<span flex></span>
+	    </div>
+	  </md-toolbar>
+	  <div ui-view></div>
+	</div>
+</body>
+</html>
