@@ -36,7 +36,6 @@ class ListUsers(APIView):
         return Response(serializer.data)
 
     def post(self, request, format=None):
-        import ipdb; ipdb.set_trace()
         serializer = UserSerializer(data=request.data)
         if serializer.is_valid():
             serializer.save()
