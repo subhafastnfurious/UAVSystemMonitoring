@@ -18,6 +18,8 @@ To install virtualenvwrapper and activate (http://virtualenvwrapper.readthedocs.
 
 $ pip install -r requirements.txt
 
+NOTE: JS Library are already available from static/lib folder so 'bower install' to install js library not require.
+so you can skip following step for js installation.
 
 Installing Node.js and Bower
 
