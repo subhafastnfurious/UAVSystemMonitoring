@@ -28,6 +28,7 @@ Bower is a package manager for third party front-end tools. These packages are s
 $ npm install -g bower
 
 Then execute the following command to install all the javascript library
+
 $ bower install
 
 We are still under UAVSystemMonitoring  folder.
