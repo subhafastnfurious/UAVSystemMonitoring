@@ -33,6 +33,8 @@ $ bower install
 
 We are still under UAVSystemMonitoring  folder.
 Once all the above steps completed run 
+
+
 $ python manage.py runserver
 
 Try to access localhost:8000
