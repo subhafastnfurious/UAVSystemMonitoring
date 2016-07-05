@@ -6,12 +6,17 @@ Monitor UAV system using Google Maps
 Application need to have preconfigured data in database
 Following are the command can be used to load the dump
 
-xyz.json file should be present under same folder from which we are executing the command.
+After cloning the repo 
+cd onto UAVSystemMonitoring folder
+Then run mongoimport following command to load the mongodb database
 
-mongoimport --db UAVSystemMonitoring --collection location_data --type json --file xyz.json --jsonArray
+$ mongoimport --db UAVSystemMonitoring --collection location_data --type json --file xyz.json --jsonArray
 
-Then reun the requirements file
-pip install -r requirements.txt
+Then run the requirements file(best to create a virtualenv using virtualenv wrapper then run the requirement while environment is active) to install all the django and python related package.
+
+To install virtualenvwrapper and activate (http://virtualenvwrapper.readthedocs.io/en/latest/install.html)
+
+$ pip install -r requirements.txt
 
 
 Installing Node.js and Bower
@@ -23,5 +28,12 @@ Bower is a package manager for third party front-end tools. These packages are s
 $ npm install -g bower
 
 Then execute the following command to install all the javascript library
-bower install
+$ bower install
+
+We are still under UAVSystemMonitoring  folder.
+Once all the above steps completed run 
+$ python manage.py runserver
+
+Try to access localhost:8000
+
 
